@@ -1,0 +1,4 @@
+python D:\Coding\NENR-Lab\Lab03\solution.py
+2
+20
+10
